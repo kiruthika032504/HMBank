@@ -1,0 +1,15 @@
+D:\C# HMBank\Task9\bin\Debug\net6.0\Task9.exe
+D:\C# HMBank\Task9\bin\Debug\net6.0\Task9.deps.json
+D:\C# HMBank\Task9\bin\Debug\net6.0\Task9.runtimeconfig.json
+D:\C# HMBank\Task9\bin\Debug\net6.0\Task9.dll
+D:\C# HMBank\Task9\bin\Debug\net6.0\Task9.pdb
+D:\C# HMBank\Task9\obj\Debug\net6.0\Task9.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# HMBank\Task9\obj\Debug\net6.0\Task9.AssemblyInfoInputs.cache
+D:\C# HMBank\Task9\obj\Debug\net6.0\Task9.AssemblyInfo.cs
+D:\C# HMBank\Task9\obj\Debug\net6.0\Task9.csproj.CoreCompileInputs.cache
+D:\C# HMBank\Task9\obj\Debug\net6.0\Task9.sourcelink.json
+D:\C# HMBank\Task9\obj\Debug\net6.0\Task9.dll
+D:\C# HMBank\Task9\obj\Debug\net6.0\refint\Task9.dll
+D:\C# HMBank\Task9\obj\Debug\net6.0\Task9.pdb
+D:\C# HMBank\Task9\obj\Debug\net6.0\Task9.genruntimeconfig.cache
+D:\C# HMBank\Task9\obj\Debug\net6.0\ref\Task9.dll

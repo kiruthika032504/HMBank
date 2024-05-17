@@ -1,0 +1,15 @@
+D:\C# HMBank\HMBank\bin\Debug\net6.0\HMBank.exe
+D:\C# HMBank\HMBank\bin\Debug\net6.0\HMBank.deps.json
+D:\C# HMBank\HMBank\bin\Debug\net6.0\HMBank.runtimeconfig.json
+D:\C# HMBank\HMBank\bin\Debug\net6.0\HMBank.dll
+D:\C# HMBank\HMBank\bin\Debug\net6.0\HMBank.pdb
+D:\C# HMBank\HMBank\obj\Debug\net6.0\HMBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# HMBank\HMBank\obj\Debug\net6.0\HMBank.AssemblyInfoInputs.cache
+D:\C# HMBank\HMBank\obj\Debug\net6.0\HMBank.AssemblyInfo.cs
+D:\C# HMBank\HMBank\obj\Debug\net6.0\HMBank.csproj.CoreCompileInputs.cache
+D:\C# HMBank\HMBank\obj\Debug\net6.0\HMBank.sourcelink.json
+D:\C# HMBank\HMBank\obj\Debug\net6.0\HMBank.dll
+D:\C# HMBank\HMBank\obj\Debug\net6.0\refint\HMBank.dll
+D:\C# HMBank\HMBank\obj\Debug\net6.0\HMBank.pdb
+D:\C# HMBank\HMBank\obj\Debug\net6.0\HMBank.genruntimeconfig.cache
+D:\C# HMBank\HMBank\obj\Debug\net6.0\ref\HMBank.dll

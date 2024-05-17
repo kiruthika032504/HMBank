@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# HMBank\\HMBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B55B44-0DC2-44AA-9082-E81833D4205B}|..\\Task14\\Task14.csproj|d:\\c# hmbank\\task14\\app\\hmbankapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B55B44-0DC2-44AA-9082-E81833D4205B}|..\\Task14\\Task14.csproj|d:\\c# hmbank\\task14\\service\\customerserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B55B44-0DC2-44AA-9082-E81833D4205B}|..\\Task14\\Task14.csproj|d:\\c# hmbank\\task14\\service\\bankserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B55B44-0DC2-44AA-9082-E81833D4205B}|..\\Task14\\Task14.csproj|d:\\c# hmbank\\task14\\repository\\ibankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B55B44-0DC2-44AA-9082-E81833D4205B}|..\\Task14\\Task14.csproj|d:\\c# hmbank\\task14\\repository\\bankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B55B44-0DC2-44AA-9082-E81833D4205B}|..\\Task14\\Task14.csproj|d:\\c# hmbank\\task14\\exception\\invalidaccountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B55B44-0DC2-44AA-9082-E81833D4205B}|..\\Task14\\Task14.csproj|d:\\c# hmbank\\task14\\exception\\insufficientbalanceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B55B44-0DC2-44AA-9082-E81833D4205B}|..\\Task14\\Task14.csproj|d:\\c# hmbank\\task14\\bean\\zerobalanceaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B55B44-0DC2-44AA-9082-E81833D4205B}|..\\Task14\\Task14.csproj|d:\\c# hmbank\\task14\\bean\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B55B44-0DC2-44AA-9082-E81833D4205B}|..\\Task14\\Task14.csproj|d:\\c# hmbank\\task14\\bean\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B55B44-0DC2-44AA-9082-E81833D4205B}|..\\Task14\\Task14.csproj|d:\\c# hmbank\\task14\\bean\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B55B44-0DC2-44AA-9082-E81833D4205B}|..\\Task14\\Task14.csproj|d:\\c# hmbank\\task14\\bean\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED8C584-10B0-45DF-88BE-C61EA0A9CE1F}|Task13\\Task13.csproj|d:\\c# hmbank\\hmbank\\task13\\service\\icustomerserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED8C584-10B0-45DF-88BE-C61EA0A9CE1F}|Task13\\Task13.csproj|solutionrelative:task13\\service\\icustomerserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED8C584-10B0-45DF-88BE-C61EA0A9CE1F}|Task13\\Task13.csproj|d:\\c# hmbank\\hmbank\\task13\\service\\ibankserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED8C584-10B0-45DF-88BE-C61EA0A9CE1F}|Task13\\Task13.csproj|solutionrelative:task13\\service\\ibankserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED8C584-10B0-45DF-88BE-C61EA0A9CE1F}|Task13\\Task13.csproj|d:\\c# hmbank\\hmbank\\task13\\service\\customerserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED8C584-10B0-45DF-88BE-C61EA0A9CE1F}|Task13\\Task13.csproj|solutionrelative:task13\\service\\customerserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED8C584-10B0-45DF-88BE-C61EA0A9CE1F}|Task13\\Task13.csproj|d:\\c# hmbank\\hmbank\\task13\\service\\bankserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED8C584-10B0-45DF-88BE-C61EA0A9CE1F}|Task13\\Task13.csproj|solutionrelative:task13\\service\\bankserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED8C584-10B0-45DF-88BE-C61EA0A9CE1F}|Task13\\Task13.csproj|d:\\c# hmbank\\hmbank\\task13\\bankapp\\hmbankapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED8C584-10B0-45DF-88BE-C61EA0A9CE1F}|Task13\\Task13.csproj|solutionrelative:task13\\bankapp\\hmbankapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HMBankApp.cs",
+              "DocumentMoniker": "D:\\C# HMBank\\Task14\\App\\HMBankApp.cs",
+              "RelativeDocumentMoniker": "..\\Task14\\App\\HMBankApp.cs",
+              "ToolTip": "D:\\C# HMBank\\Task14\\App\\HMBankApp.cs",
+              "RelativeToolTip": "..\\Task14\\App\\HMBankApp.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:07:47.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerServiceProvider.cs",
+              "DocumentMoniker": "D:\\C# HMBank\\Task14\\Service\\CustomerServiceProvider.cs",
+              "RelativeDocumentMoniker": "..\\Task14\\Service\\CustomerServiceProvider.cs",
+              "ToolTip": "D:\\C# HMBank\\Task14\\Service\\CustomerServiceProvider.cs",
+              "RelativeToolTip": "..\\Task14\\Service\\CustomerServiceProvider.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAFoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:06:36.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankServiceProvider.cs",
+              "DocumentMoniker": "D:\\C# HMBank\\Task14\\Service\\BankServiceProvider.cs",
+              "RelativeDocumentMoniker": "..\\Task14\\Service\\BankServiceProvider.cs",
+              "ToolTip": "D:\\C# HMBank\\Task14\\Service\\BankServiceProvider.cs",
+              "RelativeToolTip": "..\\Task14\\Service\\BankServiceProvider.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAUwFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:05:37.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBankRepository.cs",
+              "DocumentMoniker": "D:\\C# HMBank\\Task14\\Repository\\IBankRepository.cs",
+              "RelativeDocumentMoniker": "..\\Task14\\Repository\\IBankRepository.cs",
+              "ToolTip": "D:\\C# HMBank\\Task14\\Repository\\IBankRepository.cs",
+              "RelativeToolTip": "..\\Task14\\Repository\\IBankRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:05:32.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankRepository.cs",
+              "DocumentMoniker": "D:\\C# HMBank\\Task14\\Repository\\BankRepository.cs",
+              "RelativeDocumentMoniker": "..\\Task14\\Repository\\BankRepository.cs",
+              "ToolTip": "D:\\C# HMBank\\Task14\\Repository\\BankRepository.cs",
+              "RelativeToolTip": "..\\Task14\\Repository\\BankRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:05:26.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvalidAccountException.cs",
+              "DocumentMoniker": "D:\\C# HMBank\\Task14\\Exception\\InvalidAccountException.cs",
+              "RelativeDocumentMoniker": "..\\Task14\\Exception\\InvalidAccountException.cs",
+              "ToolTip": "D:\\C# HMBank\\Task14\\Exception\\InvalidAccountException.cs",
+              "RelativeToolTip": "..\\Task14\\Exception\\InvalidAccountException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:05:23.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InsufficientBalanceException.cs",
+              "DocumentMoniker": "D:\\C# HMBank\\Task14\\Exception\\InsufficientBalanceException.cs",
+              "RelativeDocumentMoniker": "..\\Task14\\Exception\\InsufficientBalanceException.cs",
+              "ToolTip": "D:\\C# HMBank\\Task14\\Exception\\InsufficientBalanceException.cs",
+              "RelativeToolTip": "..\\Task14\\Exception\\InsufficientBalanceException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:05:21.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ZeroBalanceAccount.cs",
+              "DocumentMoniker": "D:\\C# HMBank\\Task14\\Bean\\ZeroBalanceAccount.cs",
+              "RelativeDocumentMoniker": "..\\Task14\\Bean\\ZeroBalanceAccount.cs",
+              "ToolTip": "D:\\C# HMBank\\Task14\\Bean\\ZeroBalanceAccount.cs",
+              "RelativeToolTip": "..\\Task14\\Bean\\ZeroBalanceAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:05:18.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\C# HMBank\\Task14\\Bean\\Transaction.cs",
+              "RelativeDocumentMoniker": "..\\Task14\\Bean\\Transaction.cs",
+              "ToolTip": "D:\\C# HMBank\\Task14\\Bean\\Transaction.cs",
+              "RelativeToolTip": "..\\Task14\\Bean\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:05:16.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "D:\\C# HMBank\\Task14\\Bean\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "..\\Task14\\Bean\\SavingsAccount.cs",
+              "ToolTip": "D:\\C# HMBank\\Task14\\Bean\\SavingsAccount.cs",
+              "RelativeToolTip": "..\\Task14\\Bean\\SavingsAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:05:13.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "D:\\C# HMBank\\Task14\\Bean\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "..\\Task14\\Bean\\CurrentAccount.cs",
+              "ToolTip": "D:\\C# HMBank\\Task14\\Bean\\CurrentAccount.cs",
+              "RelativeToolTip": "..\\Task14\\Bean\\CurrentAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:04:53.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\C# HMBank\\Task14\\Bean\\Account.cs",
+              "RelativeDocumentMoniker": "..\\Task14\\Bean\\Account.cs",
+              "ToolTip": "D:\\C# HMBank\\Task14\\Bean\\Account.cs",
+              "RelativeToolTip": "..\\Task14\\Bean\\Account.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAqwBMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:03:09.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HMBankApp.cs",
+              "DocumentMoniker": "D:\\C# HMBank\\HMBank\\Task13\\BankApp\\HMBankApp.cs",
+              "RelativeDocumentMoniker": "Task13\\BankApp\\HMBankApp.cs",
+              "ToolTip": "D:\\C# HMBank\\HMBank\\Task13\\BankApp\\HMBankApp.cs",
+              "RelativeToolTip": "Task13\\BankApp\\HMBankApp.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAlwHwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:47:04.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICustomerServiceProvider.cs",
+              "DocumentMoniker": "D:\\C# HMBank\\HMBank\\Task13\\service\\ICustomerServiceProvider.cs",
+              "RelativeDocumentMoniker": "Task13\\service\\ICustomerServiceProvider.cs",
+              "ToolTip": "D:\\C# HMBank\\HMBank\\Task13\\service\\ICustomerServiceProvider.cs",
+              "RelativeToolTip": "Task13\\service\\ICustomerServiceProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:46:47.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBankServiceProvider.cs",
+              "DocumentMoniker": "D:\\C# HMBank\\HMBank\\Task13\\service\\IBankServiceProvider.cs",
+              "RelativeDocumentMoniker": "Task13\\service\\IBankServiceProvider.cs",
+              "ToolTip": "D:\\C# HMBank\\HMBank\\Task13\\service\\IBankServiceProvider.cs",
+              "RelativeToolTip": "Task13\\service\\IBankServiceProvider.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:46:36.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerServiceProvider.cs",
+              "DocumentMoniker": "D:\\C# HMBank\\HMBank\\Task13\\service\\CustomerServiceProvider.cs",
+              "RelativeDocumentMoniker": "Task13\\service\\CustomerServiceProvider.cs",
+              "ToolTip": "D:\\C# HMBank\\HMBank\\Task13\\service\\CustomerServiceProvider.cs",
+              "RelativeToolTip": "Task13\\service\\CustomerServiceProvider.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:46:27.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BankServiceProvider.cs",
+              "DocumentMoniker": "D:\\C# HMBank\\HMBank\\Task13\\service\\BankServiceProvider.cs",
+              "RelativeDocumentMoniker": "Task13\\service\\BankServiceProvider.cs",
+              "ToolTip": "D:\\C# HMBank\\HMBank\\Task13\\service\\BankServiceProvider.cs",
+              "RelativeToolTip": "Task13\\service\\BankServiceProvider.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAADwv34AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:46:15.536Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

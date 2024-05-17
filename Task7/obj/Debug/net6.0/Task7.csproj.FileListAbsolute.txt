@@ -1,0 +1,15 @@
+D:\C# HMBank\Task7\bin\Debug\net6.0\Task7.exe
+D:\C# HMBank\Task7\bin\Debug\net6.0\Task7.deps.json
+D:\C# HMBank\Task7\bin\Debug\net6.0\Task7.runtimeconfig.json
+D:\C# HMBank\Task7\bin\Debug\net6.0\Task7.dll
+D:\C# HMBank\Task7\bin\Debug\net6.0\Task7.pdb
+D:\C# HMBank\Task7\obj\Debug\net6.0\Task7.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# HMBank\Task7\obj\Debug\net6.0\Task7.AssemblyInfoInputs.cache
+D:\C# HMBank\Task7\obj\Debug\net6.0\Task7.AssemblyInfo.cs
+D:\C# HMBank\Task7\obj\Debug\net6.0\Task7.csproj.CoreCompileInputs.cache
+D:\C# HMBank\Task7\obj\Debug\net6.0\Task7.sourcelink.json
+D:\C# HMBank\Task7\obj\Debug\net6.0\Task7.dll
+D:\C# HMBank\Task7\obj\Debug\net6.0\refint\Task7.dll
+D:\C# HMBank\Task7\obj\Debug\net6.0\Task7.pdb
+D:\C# HMBank\Task7\obj\Debug\net6.0\Task7.genruntimeconfig.cache
+D:\C# HMBank\Task7\obj\Debug\net6.0\ref\Task7.dll

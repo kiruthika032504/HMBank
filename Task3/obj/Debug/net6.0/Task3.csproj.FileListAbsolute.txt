@@ -1,0 +1,15 @@
+D:\C# HMBank\Task3\bin\Debug\net6.0\Task3.exe
+D:\C# HMBank\Task3\bin\Debug\net6.0\Task3.deps.json
+D:\C# HMBank\Task3\bin\Debug\net6.0\Task3.runtimeconfig.json
+D:\C# HMBank\Task3\bin\Debug\net6.0\Task3.dll
+D:\C# HMBank\Task3\bin\Debug\net6.0\Task3.pdb
+D:\C# HMBank\Task3\obj\Debug\net6.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# HMBank\Task3\obj\Debug\net6.0\Task3.AssemblyInfoInputs.cache
+D:\C# HMBank\Task3\obj\Debug\net6.0\Task3.AssemblyInfo.cs
+D:\C# HMBank\Task3\obj\Debug\net6.0\Task3.csproj.CoreCompileInputs.cache
+D:\C# HMBank\Task3\obj\Debug\net6.0\Task3.sourcelink.json
+D:\C# HMBank\Task3\obj\Debug\net6.0\Task3.dll
+D:\C# HMBank\Task3\obj\Debug\net6.0\refint\Task3.dll
+D:\C# HMBank\Task3\obj\Debug\net6.0\Task3.pdb
+D:\C# HMBank\Task3\obj\Debug\net6.0\Task3.genruntimeconfig.cache
+D:\C# HMBank\Task3\obj\Debug\net6.0\ref\Task3.dll
